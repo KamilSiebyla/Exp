@@ -1,0 +1,6 @@
+c:\users\sieby\documents\visual studio 2015\Projects\SimpleStrategy\SimpleStrategy\bin\Debug\SimpleStrategy.exe.config
+c:\users\sieby\documents\visual studio 2015\Projects\SimpleStrategy\SimpleStrategy\bin\Debug\SimpleStrategy.exe
+c:\users\sieby\documents\visual studio 2015\Projects\SimpleStrategy\SimpleStrategy\bin\Debug\SimpleStrategy.pdb
+c:\users\sieby\documents\visual studio 2015\Projects\SimpleStrategy\SimpleStrategy\obj\Debug\SimpleStrategy.csprojResolveAssemblyReference.cache
+c:\users\sieby\documents\visual studio 2015\Projects\SimpleStrategy\SimpleStrategy\obj\Debug\SimpleStrategy.exe
+c:\users\sieby\documents\visual studio 2015\Projects\SimpleStrategy\SimpleStrategy\obj\Debug\SimpleStrategy.pdb
